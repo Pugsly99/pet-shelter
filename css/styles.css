@@ -1,0 +1,21 @@
+.column1 {
+  width: 30%;
+  float: left;
+  background-color: sienna;
+}
+
+.column2 {
+  width: 30%;
+  float: left;
+  background-color:wheat;
+}
+
+.column3 {
+  width: 30%;
+  float: left;
+  background-color: sienna;
+}
+
+.header {
+  text-align: center;
+}
